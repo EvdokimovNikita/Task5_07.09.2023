@@ -1,4 +1,5 @@
 public class Main {
+    // Найти самый часто встречающийся элемент массива
     public static void main(String[] args) {
         int[] arrayFree = {1, 5, 8, 1, 9, 6, 5, 6, 5, 0, 5, 6, 5, 6, 6, 6};
         // we need print element results = 5, counter = 3 ;
